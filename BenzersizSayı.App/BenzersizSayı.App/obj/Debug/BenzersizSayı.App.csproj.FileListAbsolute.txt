@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\OKAN-ERDEM\BenzersizSayı\BenzersizSayı.App\BenzersizSayı.App\bin\Debug\BenzersizSayı.App.exe.config
+C:\Users\HP\source\repos\OKAN-ERDEM\BenzersizSayı\BenzersizSayı.App\BenzersizSayı.App\bin\Debug\BenzersizSayı.App.exe
+C:\Users\HP\source\repos\OKAN-ERDEM\BenzersizSayı\BenzersizSayı.App\BenzersizSayı.App\bin\Debug\BenzersizSayı.App.pdb
+C:\Users\HP\source\repos\OKAN-ERDEM\BenzersizSayı\BenzersizSayı.App\BenzersizSayı.App\obj\Debug\BenzersizSayı.App.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\OKAN-ERDEM\BenzersizSayı\BenzersizSayı.App\BenzersizSayı.App\obj\Debug\BenzersizSayı.App.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OKAN-ERDEM\BenzersizSayı\BenzersizSayı.App\BenzersizSayı.App\obj\Debug\BenzersizSayı.App.exe
+C:\Users\HP\source\repos\OKAN-ERDEM\BenzersizSayı\BenzersizSayı.App\BenzersizSayı.App\obj\Debug\BenzersizSayı.App.pdb

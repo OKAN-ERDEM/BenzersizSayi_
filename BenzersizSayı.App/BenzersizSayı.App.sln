@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenzersizSayı.App", "BenzersizSayı.App\BenzersizSayı.App.csproj", "{46677CC7-1D2B-47E5-9410-417BE3A7D78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46677CC7-1D2B-47E5-9410-417BE3A7D78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46677CC7-1D2B-47E5-9410-417BE3A7D78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46677CC7-1D2B-47E5-9410-417BE3A7D78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46677CC7-1D2B-47E5-9410-417BE3A7D78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {626E4383-D29B-4F42-996A-E1AE0C5595B4}
+	EndGlobalSection
+EndGlobal
