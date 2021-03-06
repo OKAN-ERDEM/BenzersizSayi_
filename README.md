@@ -1,2 +1,0 @@
-# BenzersizSayi_
-GaziMYO.BenzersizSayıÖdevi
